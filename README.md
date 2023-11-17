@@ -1,5 +1,10 @@
 ## Both the [E-Commerce Dashboard & CMS App](https://ecommerce-admin-nine-ruby.vercel.app/), and the [E-Commerce Store App](https://ecommerce-store-taupe-seven.vercel.app/) are live on the web.
 
+### [E-Commerce Store Repo](https://github.com/Hatem902/ecommerce-admin)
+This Project is split into 2 Repos for 2 Web-apps :
+- E-Commerce Dashboard & CMS Repo : Current repo.
+- E-Commerce Store Repo : https://github.com/Hatem902/ecommerce-store
+
 ### [Demo Video](https://www.youtube.com/watch?v=ehZJeeosPIY&list=PLJ49vJop9dCb7H0oM_fc_BOuwrDlkKB_e&index=2&ab_channel=tommy123)
 
 [![Demo Video link](https://img.youtube.com/vi/ehZJeeosPIY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ehZJeeosPIY&list=PLJ49vJop9dCb7H0oM_fc_BOuwrDlkKB_e&index=2&ab_channel=tommy123)
@@ -21,9 +26,9 @@
 - Zod, TanStack(React Query) + Axios, React Hook Form
 - Prisma, MySQL, PlanetScale, Clerk
 
-### [Demo Video](https://youtu.be/M6Za30l83co)
 
-### [E-Commerce Dashboard + CMS Repo](https://github.com/Hatem902/ecommerce-admin)
+
+
 
 ### License
 
