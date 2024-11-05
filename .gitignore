@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+config.load*
+pscale_dump_*
 
 # debug
 npm-debug.log*
