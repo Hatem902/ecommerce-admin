@@ -1,4 +1,9 @@
-## Both the [E-Commerce Dashboard & CMS App](https://ecommerce-admin-nine-ruby.vercel.app/), and the [E-Commerce Store App](https://ecommerce-store-taupe-seven.vercel.app/) are live on the web.
+## Both the [E-Commerce Store App](https://ecommerce-store-taupe-seven.vercel.app/), and the [E-Commerce Dashboard & CMS App](https://ecommerce-admin-nine-ruby.vercel.app/) are live on the web.
+
+### This Project is split into 2 Repos for 2 Web-apps :
+
+- E-Commerce Dashboard & CMS Repo : Current repo.
+- E-Commerce Store Repo : https://github.com/Hatem902/ecommerce-store
 
 ### [Demo Video](https://www.youtube.com/watch?v=ehZJeeosPIY&list=PLJ49vJop9dCb7H0oM_fc_BOuwrDlkKB_e&index=2&ab_channel=tommy123)
 
@@ -13,18 +18,10 @@
 - Authentication
 - Stores with seemless navigation & filtering
 - Cart Management
-- Payment
+- Payment with Stripe
 
 ### Stack
 
-- Next.js 13.4 /w App Router, React, TypeScript, Tailwind CSS, Shadcn UI
-- Zod, TanStack(React Query) + Axios, React Hook Form
-- Prisma, MySQL, PlanetScale, Clerk
-
-### [Demo Video](https://youtu.be/M6Za30l83co)
-
-### [E-Commerce Dashboard + CMS Repo](https://github.com/Hatem902/ecommerce-admin)
-
-### License
-
-- [MIT](https://choosealicense.com/licenses/mit/)
+- Next.js with App Router, React, TypeScript, Tailwind CSS, Shadcn UI
+- Zod, TanStack(React Query), React Hook Form
+- MySQL, Stripe
